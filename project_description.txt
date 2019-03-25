@@ -1,0 +1,3 @@
+This project involves creation of a CNN based classifier to find the category of dog breed from a given input image.
+It teaches how to build a CNN network from scratch using keras and using pre-trained models available in keras library.
+It also involves use of Transfer Learning to generate more accurate classifier models by using already trained features data.
